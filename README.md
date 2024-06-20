@@ -33,8 +33,8 @@ The CNN model is built using the following layers:
 To get started, clone the repository and install the required dependencies:
 
 ```sh
-git clone https://github.com/your-username/cifar10-cnn.git
-cd cifar10-cnn
+git clone https://github.com/Rajneessh/ImageClassifierNN.git
+cd ImageClassifierNN
 python -m venv venv
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
